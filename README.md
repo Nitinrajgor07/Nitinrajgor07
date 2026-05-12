@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Nitin+Rajgor;Web+Developer;Python+Learner;Building+Cool+Projects" />
+</p>
 <h1 align="center">Hi 👋, I'm Nitin Rajgor</h1>
 <h3 align="center">BCA Student | Web Developer | Python Learner</h3>
 
