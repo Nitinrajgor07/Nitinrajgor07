@@ -1,0 +1,34 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="nodeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 300) scale(280)">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="#05070D"/>
+  <rect width="600" height="600" fill="url(#nodeGlow)"/>
+  <g stroke="#3B82F6" stroke-opacity="0.45" stroke-width="1.2">
+    <line x1="300" y1="120" x2="180" y2="220"/>
+    <line x1="300" y1="120" x2="420" y2="220"/>
+    <line x1="180" y1="220" x2="230" y2="360"/>
+    <line x1="420" y1="220" x2="370" y2="360"/>
+    <line x1="230" y1="360" x2="370" y2="360"/>
+    <line x1="230" y1="360" x2="300" y2="470"/>
+    <line x1="370" y1="360" x2="300" y2="470"/>
+    <line x1="180" y1="220" x2="420" y2="220"/>
+  </g>
+  <g fill="#60A5FA">
+    <circle cx="300" cy="120" r="7"/>
+    <circle cx="180" cy="220" r="6"/>
+    <circle cx="420" cy="220" r="6"/>
+    <circle cx="230" cy="360" r="5.5"/>
+    <circle cx="370" cy="360" r="5.5"/>
+    <circle cx="300" cy="470" r="7"/>
+  </g>
+  <g font-family="'JetBrains Mono',monospace" font-size="13" fill="#8892A6">
+    <text x="300" y="105" text-anchor="middle">JAVA</text>
+    <text x="150" y="215" text-anchor="end">AI</text>
+    <text x="450" y="215">DATA</text>
+    <text x="300" y="495" text-anchor="middle">SOFTWARE</text>
+  </g>
+</svg>
