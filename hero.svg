@@ -1,0 +1,64 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="heroBg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#05070D"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 210) scale(500 260)">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#heroBg)"/>
+  <rect width="1200" height="420" fill="url(#glow)"/>
+
+  <!-- Orbiting ring representing Java / AI / Data disciplines -->
+  <g transform="translate(600,210)">
+    <circle r="150" fill="none" stroke="#2A3A5C" stroke-width="1" stroke-dasharray="2 6"/>
+    <g>
+      <circle cx="150" cy="0" r="6" fill="url(#ringGrad)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="14s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="-150" cy="0" r="5" fill="#6366F1"/>
+      <animateTransform attributeName="transform" type="rotate" from="120 0 0" to="480 0 0" dur="14s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="0" cy="150" r="4.5" fill="#22D3EE"/>
+      <animateTransform attributeName="transform" type="rotate" from="240 0 0" to="600 0 0" dur="14s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Typing headline -->
+  <text x="600" y="195" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',sans-serif" font-size="46" font-weight="700" fill="#E8ECF4">
+    Hi, I'm Nitin Rajgor
+  </text>
+
+  <text x="600" y="240" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="20" fill="#60A5FA">
+    <tspan id="typing">Java Developer &#8226; AI Engineer &#8226; MSc CS Student</tspan>
+    <animate attributeName="opacity" values="0;1" dur="1.2s" begin="0s" fill="freeze"/>
+  </text>
+
+  <rect x="985" y="222" width="2" height="24" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="600" y="285" text-anchor="middle" font-family="'Inter','Segoe UI',sans-serif" font-size="16" fill="#8892A6">
+    Turning research and real-world problems into working software.
+  </text>
+
+  <!-- Premium CTA buttons -->
+  <g transform="translate(430,320)">
+    <rect width="150" height="46" rx="23" fill="#3B82F6"/>
+    <text x="75" y="29" text-anchor="middle" font-family="'Inter',sans-serif" font-size="15" font-weight="600" fill="#05070D">View Projects</text>
+  </g>
+  <g transform="translate(600,320)">
+    <rect width="170" height="46" rx="23" fill="none" stroke="#3B4A6B"/>
+    <text x="85" y="29" text-anchor="middle" font-family="'Inter',sans-serif" font-size="15" font-weight="600" fill="#E8ECF4">Get in Touch</text>
+  </g>
+</svg>
