@@ -1,0 +1,15 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1120" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#3B82F6" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#6366F1" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0B1120" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="29" width="1200" height="1.5" fill="url(#dividerGrad)"/>
+  <circle cx="600" cy="30" r="4" fill="#22D3EE">
+    <animate attributeName="cx" values="150;1050;150" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</svg>

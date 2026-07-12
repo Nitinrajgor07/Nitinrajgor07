@@ -1,0 +1,14 @@
+<svg width="1500" height="800" viewBox="0 0 1500 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="glowBg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(750 400) scale(700 420)">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#05070D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="gridBg" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#182238" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1500" height="800" fill="#05070D"/>
+  <rect width="1500" height="800" fill="url(#gridBg)"/>
+  <rect width="1500" height="800" fill="url(#glowBg)"/>
+</svg>
