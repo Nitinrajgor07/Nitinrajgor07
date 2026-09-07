@@ -28,14 +28,7 @@
 <td width="25%" align="center" valign="top">
 <br />
 
-**💼 Role**
 
-Interning @ Innovexis
-
-<br />
-</td>
-<td width="25%" align="center" valign="top">
-<br />
 
 **🎓 Study**
 
