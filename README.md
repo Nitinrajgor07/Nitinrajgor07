@@ -1,4 +1,8 @@
- <div align="center">
+<div align="center">
+  <img src="./assets/profile-photo.jpg"
+       alt="Nitin Rajgor"
+       width="160">
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:4338CA,100:7C3AED&height=200&section=header&text=Nitin%20Rajgor&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Development&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Nitin Rajgor GitHub profile banner"/>
 
