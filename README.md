@@ -1,432 +1,435 @@
-<div align="center">
+ <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Nitin Rajgor — Software Developer, AI Engineer, Java Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,50:4F46E5,100:7C3AED&height=200&section=header&text=NITIN%20RAJGOR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Nitin Rajgor — Software Developer"/>
 
-<br />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Developer;M.Sc.+Computer+Science+%26+IT+Student;AI%2FML+%7C+Python+%7C+Flask;Building+Practical%2C+Scalable+Software;Turning+Ideas+Into+Engineering+Solutions" alt="Typing SVG"/>
+</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Java+Developer;AI+Engineer;MSc+Computer+Science+Student;Building+Predictive+Systems+from+Research+to+Production" alt="Typing SVG" /></a>
+<br/>
 
-<br /><br />
+<a href="https://www.jainuniversity.ac.in/">
+  <img src="https://img.shields.io/badge/M.Sc.%20Computer%20Science%20%26%20IT-JAIN%20University-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="MSc Computer Science and IT"/>
+</a>
+<a href="https://www.gujaratuniversity.ac.in/">
+  <img src="https://img.shields.io/badge/Bachelor's%20Degree-BCA-4338CA?style=for-the-badge&logo=bookstack&logoColor=white" alt="Bachelor of Computer Applications"/>
+</a>
 
-<a href="https://github.com/Nitinrajgor07"><img src="https://img.shields.io/badge/GitHub-Follow-05070D?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=05070D" /></a>
-<a href="https://www.linkedin.com/in/nitin-rajgor-754b30383"><img src="https://img.shields.io/badge/LinkedIn-Connect-05070D?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=05070D" /></a>
-<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-05070D?style=for-the-badge&logo=googledocs&logoColor=60A5FA&labelColor=05070D" /></a>
-<a href="https://doi.org/10.64388/IREV9I11-1717767"><img src="https://img.shields.io/badge/Research-IRE_Journals-05070D?style=for-the-badge&logo=googlescholar&logoColor=60A5FA&labelColor=05070D" /></a>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Bengaluru India"/>
+
+<br/><br/>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:rajgornitin2308@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=NitinRajgor&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/NitinRajgor?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/NitinRajgor?style=flat-square&color=6D28D9&label=TOTAL+STARS" alt="GitHub stars"/>
 
 </div>
 
-<br />
+---
 
-<img src="./divider.svg" width="100%" />
+## `01` &nbsp; About Me
 
-<br />
+I'm **Nitin Rajgor**, a Software Developer and Computer Science postgraduate student focused on building practical software solutions across web development, artificial intelligence, machine learning, and data-driven applications.
 
-## Current Status
+My engineering approach combines problem-solving, clean implementation, and a product-oriented mindset. I enjoy transforming technical concepts into functional applications, developing backend services, designing intuitive interfaces, and integrating intelligent features into real-world workflows.
 
-<table align="center" width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
-<br />
+- **Software Engineering:** Developing maintainable applications with structured, reusable code.
+- **AI & Machine Learning:** Exploring predictive analytics, data processing, and intelligent automation.
+- **Full Stack Development:** Building web applications with Python, Flask, JavaScript, and relational databases.
+- **Product Engineering:** Prioritizing usability, reliability, security fundamentals, and practical outcomes.
+- **Continuous Learning:** Strengthening core computer science knowledge through academic projects and hands-on implementation.
 
+**Currently pursuing:** M.Sc. Computer Science & IT at JAIN University.
 
+**Previously completed:** Bachelor of Computer Applications (BCA).
 
-**🎓 Study**
+**Open to:** Software Developer opportunities, Python Development, AI/ML projects, Full Stack Development, internships, and open-source collaboration.
 
-MSc CS & IT · Sem 3
-Jain University
+---
 
-<br />
-</td>
-<td width="25%" align="center" valign="top">
-<br />
+## `02` &nbsp; Tech Stack
 
-**🚧 Shipping**
+### Languages
 
-Predictive Smart Toll
-Pricing System
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming languages"/>
+</p>
 
-<br />
-</td>
-<td width="25%" align="center" valign="top">
-<br />
+### Frontend
 
-**🎯 Open to**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend technologies"/>
+</p>
 
-Fresher Java Developer
-/ SDE roles
+### Backend & Databases
 
-<br />
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite&theme=dark" alt="Backend and database technologies"/>
+</p>
 
-<br />
+### Cloud, DevOps & Tooling
 
-<img src="./divider.svg" width="100%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer tools"/>
+</p>
 
-<br />
+| Category | Technologies |
+|:---|:---|
+| **Programming** | Python, Java, C, JavaScript |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Backend** | Flask, Python |
+| **Databases** | MySQL, SQLite, SQL |
+| **AI / ML** | Scikit-learn, Pandas, NumPy, Predictive Analytics |
+| **Tools** | Git, GitHub, Visual Studio Code |
+| **Engineering Focus** | Web Applications, Data-Driven Systems, Authentication, CRUD Workflows |
 
-## About Me
+---
 
-I'm a Computer Science graduate student and software developer working at the point where **applied machine learning meets production-grade backend engineering**. My starting point is usually a research question — how do you price a toll dynamically based on traffic conditions, how does an agent learn to win at Ludo — and my finishing point is a working, deployable system with a real interface around it.
+## `03` &nbsp; AI / ML Expertise
 
-**Professional story.** I completed my BCA at Nav Gujarat College, Gandhinagar (Gujarat University), and I'm now in the third semester of an MSc in Computer Science & IT at Jain (Deemed-to-be) University, Bengaluru. Alongside my degree, I'm interning at Innovexis, and I split my project work between two threads that reinforce each other: **Java backend engineering** (Spring Boot, JDBC, OOP-driven system design) and **applied AI/data work** (scikit-learn, OpenCV, reinforcement learning). Two of my projects have been formalized into published research papers rather than staying as one-off builds.
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| **Machine Learning** | `Applied` | Implementing machine-learning workflows in academic and project settings. |
+| **Predictive Analytics** | `Applied` | Exploring data-driven prediction and analytical techniques. |
+| **Data Processing** | `Applied` | Working with Python, Pandas, and NumPy for data manipulation. |
+| **Model Integration** | `Applied` | Integrating machine-learning components into Flask applications. |
+| **Intelligent Automation** | `Developing` | Exploring practical automation opportunities using AI techniques. |
+| **Data Visualization** | `Developing` | Presenting analytical outputs through application dashboards. |
+| **Database-Driven AI Systems** | `Applied` | Connecting application workflows, stored data, and predictive features. |
 
-**Career goals.** I'm looking for a fresher Java Developer or Software Development role where I can work on backend systems at production scale, ideally somewhere that also values the applied-ML side of my background rather than treating it as a separate track.
+---
 
-**Currently learning.** Deepening my Spring Boot and Spring Security fundamentals, sharpening SQL and system design basics, and continuing to formalize applied-ML side projects into complete, documented systems.
+## `04` &nbsp; Featured Projects
 
-<br />
+### 01. AI-Based Smart Toll Management System
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
+<details>
+<summary><b>Explore project architecture, implementation, and engineering scope</b></summary>
 
-**🎓 Degree**
-<br />
-MSc CS & IT
-<br />
-Jain University
+**Overview**
 
-</td>
-<td align="center" width="25%">
+An AI-based Smart Toll Management System designed to support dynamic toll pricing using machine learning. The application combines a Flask backend, a web-based interface, database integration, and traffic prediction capabilities.
 
-**💼 Currently**
-<br />
-Interning
-<br />
-@ Innovexis
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python, Flask, Scikit-learn, Pandas, NumPy, HTML, CSS, JavaScript, Bootstrap, SQLite |
+| **Scale** | Web-based smart toll management application |
+| **Performance** | Includes traffic prediction and analytical dashboard functionality; benchmarks not documented |
+| **Security** | Secure login functionality and pass management |
+| **Impact** | Supports dynamic toll pricing and data-informed traffic management |
+| **Repository** | [GitHub — Add verified repository URL](https://github.com/) |
 
-</td>
-<td align="center" width="25%">
+**Engineering Highlights**
 
-**📄 Published**
-<br />
-2 Research Papers
-<br />
-IRE Journals · IJEASR
+- Developed a machine-learning-based approach to dynamic toll pricing.
+- Implemented a Flask application backend to support system workflows.
+- Integrated secure login and toll pass management features.
+- Incorporated traffic prediction functionality.
+- Built an analytics dashboard for presenting system information.
+- Used SQLite for relational data persistence.
+- Applied a combination of frontend technologies and Python-based backend development.
 
-</td>
-<td align="center" width="25%">
+**Technical Focus**
 
-**🎯 Target Role**
-<br />
-Fresher Java Developer
-<br />
-/ SDE
+`Python` · `Flask` · `Machine Learning` · `Scikit-learn` · `Pandas` · `NumPy` · `SQLite` · `Bootstrap`
 
-</td>
-</tr>
-</table>
+</details>
 
-<br />
+### 02. Student Academic Management System
 
-<img src="./divider.svg" width="100%" />
+<details>
+<summary><b>Explore project modules, database design, and implementation</b></summary>
 
-<br />
+**Overview**
 
-## Tech Stack
+A web-based Student Academic Management System built with Python, Flask, and MySQL to organize academic records and support common student administration workflows.
 
-<table align="center" width="100%">
-<tr><td valign="top" width="50%">
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Python, Flask, MySQL, HTML, CSS, JavaScript, Bootstrap |
+| **Scale** | Multi-module academic management web application |
+| **Performance** | Performance benchmarks not documented |
+| **Security** | Role-based login functionality |
+| **Impact** | Centralizes student records, attendance, marks, and timetable management |
+| **Repository** | [GitHub — Add verified repository URL](https://github.com/) |
 
-**Languages**
+**Engineering Highlights**
 
-<img src="https://img.shields.io/badge/Java-05070D?style=flat-square&logo=openjdk&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Python-05070D?style=flat-square&logo=python&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/C-05070D?style=flat-square&logo=c&logoColor=60A5FA" />
+- Developed a web-based academic management application.
+- Implemented student management functionality.
+- Added attendance tracking and marks management modules.
+- Integrated timetable management workflows.
+- Implemented role-based login functionality.
+- Connected the Flask backend to a MySQL database.
+- Used Bootstrap and standard web technologies to build the user interface.
 
-<br /><br />
+**Technical Focus**
 
-**Frameworks**
+`Python` · `Flask` · `MySQL` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap`
 
-<img src="https://img.shields.io/badge/Spring_Boot-05070D?style=flat-square&logo=springboot&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Flask-05070D?style=flat-square&logo=flask&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/OpenCV-05070D?style=flat-square&logo=opencv&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Streamlit-05070D?style=flat-square&logo=streamlit&logoColor=60A5FA" />
+</details>
 
-</td><td valign="top" width="50%">
+---
 
-**Databases**
+## `05` &nbsp; Experience
 
-<img src="https://img.shields.io/badge/MySQL-05070D?style=flat-square&logo=mysql&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/SQLite-05070D?style=flat-square&logo=sqlite&logoColor=60A5FA" />
+### Software Developer
 
-<br /><br />
+**Independent Development & Academic Projects**
 
-**Developer Tools**
+*Project-based experience*
 
-<img src="https://img.shields.io/badge/Git-05070D?style=flat-square&logo=git&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/GitHub-05070D?style=flat-square&logo=github&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/VS_Code-05070D?style=flat-square&logo=visualstudiocode&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-05070D?style=flat-square&logo=intellijidea&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Linux-05070D?style=flat-square&logo=linux&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Figma-05070D?style=flat-square&logo=figma&logoColor=60A5FA" />
+Focused on developing software applications that combine backend development, database management, frontend interfaces, and practical problem-solving.
 
-<br /><br />
+**Scope of Work**
 
-**AI Tooling**
+- Build Python-based web applications using Flask.
+- Integrate relational databases, including MySQL and SQLite.
+- Develop application interfaces with HTML, CSS, JavaScript, and Bootstrap.
+- Implement authentication-related workflows and role-based access functionality.
+- Explore machine learning integration and predictive analytics.
+- Use Git and GitHub to manage source code and development workflows.
+- Translate academic requirements into functional application modules.
 
-<img src="https://img.shields.io/badge/scikit--learn-05070D?style=flat-square&logo=scikitlearn&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Claude_API-05070D?style=flat-square&logo=anthropic&logoColor=60A5FA" />
+**Skills**
 
-</td></tr>
-</table>
+`Python` `Flask` `SQL` `MySQL` `SQLite` `JavaScript` `Bootstrap` `Git` `Machine Learning`
 
-<br />
+---
 
-<img src="./divider.svg" width="100%" />
-
-<br />
-
-## Featured Projects
-
-<table align="center" width="100%">
-<tr><td width="100%">
-
-### 🚦 Predictive Smart Toll Pricing System
-<img src="https://img.shields.io/badge/Status-In_Progress-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/Deadline-July_2026-6366F1?style=flat-square" />
-
-A dynamic toll-pricing engine built directly from my published research on predictive smart toll pricing. A Random Forest model (scikit-learn) estimates real-time congestion-adjusted pricing, served through a Flask backend with a dark-themed dashboard that visualizes pricing trends with Chart.js.
-
-**Features**
-- Random Forest model for predictive, traffic-aware toll pricing
-- Flask REST backend serving live predictions
-- Dark-theme dashboard with Chart.js visualizations
-- Built directly on top of a peer-reviewed methodology, not a from-scratch guess
-
-**Tech stack:** `Flask` `scikit-learn` `Random Forest` `Chart.js` `Python`
-
-**Future scope:** real traffic-feed integration, multi-route pricing, and an admin panel for toll-authority configuration.
-
-<a href="https://github.com/Nitinrajgor07/toll-price-management"><img src="https://img.shields.io/badge/View_Repository-05070D?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=05070D" /></a>
-
-</td></tr>
-<tr><td width="100%">
-
-### 📈 Indian Stock Market Paper Trading Dashboard
-<img src="https://img.shields.io/badge/Status-Active-3B82F6?style=flat-square" />
-
-A Streamlit-based paper trading platform for the Indian stock market, with sector-wise analysis tabs, a virtual balance system, and AI-generated market commentary powered by the Claude API.
-
-**Features**
-- Sector analysis tabs for Indian equities
-- Virtual balance system for risk-free paper trading
-- AI Analysis tab powered by the Claude API
-- Zerodha-style P&L report
-
-**Tech stack:** `Streamlit` `Python` `Claude API` `Pandas`
-
-**Future scope:** live market data feed, multi-portfolio tracking, and historical performance backtesting.
-
-<a href="https://github.com/Nitinrajgor07/stock-market-visualization"><img src="https://img.shields.io/badge/View_Repository-05070D?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=05070D" /></a>
-
-</td></tr>
-<tr><td width="100%">
-
-### 🎓 Student Academic Management System
-<img src="https://img.shields.io/badge/Status-Active-3B82F6?style=flat-square" />
-
-A full academic management platform with role-based login, color-coded attendance tracking, and an analytics dashboard visualizing student marks through Chart.js.
-
-**Features**
-- Role-based login (admin / faculty / student)
-- Color-coded attendance indicators
-- Chart.js-powered marks visualization
-- Dedicated analytics dashboard with a fixed sidebar UI
-
-**Tech stack:** `Flask` `MySQL` `Chart.js` `Java OOP concepts`
-
-**Future scope:** exam scheduling module and parent-facing progress reports.
-
-<a href="https://github.com/Nitinrajgor07/student-academic-management-system"><img src="https://img.shields.io/badge/View_Repository-05070D?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=05070D" /></a>
-
-</td></tr>
-<tr><td width="100%">
-
-### 🧑‍💻 Face Recognition Attendance System
-<img src="https://img.shields.io/badge/Status-Complete-22D3EE?style=flat-square" />
-
-A desktop attendance system using the LBPH face-recognition algorithm, with a Tkinter interface and a SQLite backend for attendance records.
-
-**Features**
-- LBPH algorithm for face recognition via OpenCV
-- Tkinter desktop interface
-- SQLite-backed attendance logging
-- Designed as a lightweight, dependency-light desktop deployment
-
-**Tech stack:** `Python` `OpenCV` `SQLite` `Tkinter`
-
-**Future scope:** liveness detection to prevent photo spoofing, and a web-based admin console.
-
-<a href="https://github.com/Nitinrajgor07/face-recognition-attendance-system"><img src="https://img.shields.io/badge/View_Repository-05070D?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=05070D" /></a>
-
-</td></tr>
-</table>
-
-<div align="center">
-<sub>See <b>Open Source & Other Builds</b> below for the Aureum Luxury e-commerce platform and the Online Voting System.</sub>
-</div>
-
-<br />
-
-<img src="./divider.svg" width="100%" />
-
-<br />
-
-## GitHub Analytics
-
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Nitinrajgor07&show_icons=true&theme=dark&bg_color=05070D&title_color=60A5FA&icon_color=22D3EE&text_color=8892A6&border_color=1B2540&hide_border=false" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinrajgor07&layout=compact&theme=dark&bg_color=05070D&title_color=60A5FA&text_color=8892A6&border_color=1B2540&hide_border=false" /></td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Nitinrajgor07&theme=dark&background=05070D&stroke=1B2540&ring=3B82F6&fire=22D3EE&currStreakLabel=60A5FA&sideLabels=8892A6&dates=5B6A8C&border=1" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitinrajgor07&theme=react-dark&bg_color=05070D&color=60A5FA&line=3B82F6&point=22D3EE&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nitinrajgor07&theme=darkhub&no-frame=true&margin-w=8&row=1" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Nitinrajgor07/Nitinrajgor07/output/github-contribution-grid-snake-dark.svg" width="100%" />
-<sub>Snake animation renders after the GitHub Action in <code>setup-guide.md</code> runs once.</sub>
-</div>
-
-<br />
-
-<img src="./divider.svg" width="100%" />
-
-<br />
-
-## Research Work
-
-<table align="center" width="100%">
-<tr><td>
-
-**Predictive Smart Toll Pricing: A Machine Learning Approach**
-Published in *IRE Journals*, Vol. 9, Issue 11, May 2026
-DOI: [10.64388/IREV9I11-1717767](https://doi.org/10.64388/IREV9I11-1717767)
-Proposes a Random Forest–based model for dynamic, congestion-aware toll pricing — later implemented as the Predictive Smart Toll Pricing System above.
-
-</td></tr>
-<tr><td>
-
-**Deep Reinforcement Learning for Board Games**
-Published in *IJEASR*
-Compares DQN and PPO agents on Ludo gameplay, produced alongside a 35-page academic report and a full presentation deck as part of a group research project (TDPCL).
-
-</td></tr>
-</table>
-
-<br />
-
-<img src="./divider.svg" width="100%" />
-
-<br />
-
-## Open Source & Other Builds
-
-<table align="center" width="100%">
-<tr><td width="50%" valign="top">
-
-**Aureum Luxury — E-commerce Platform**
-Full-stack build: React 19 + TypeScript + Vite + Tailwind CSS on the frontend, Spring Boot + Spring Security + JWT on the backend. Includes JPA-modeled order management APIs and Java Streams–based advanced search.
-
-`React` `TypeScript` `Spring Boot` `JWT` `JPA`
-
-<a href="https://github.com/Nitinrajgor07/aureum-luxury-"><img src="https://img.shields.io/badge/View_Repository-05070D?style=flat-square&logo=github&logoColor=60A5FA" /></a>
-
-</td><td width="50%" valign="top">
-
-**Online Voting System**
-Election platform with admin and voter dashboards, live election countdown, and CSV export of results, with a Flask/MySQL backend option.
-
-`HTML/JS` `Chart.js` `Flask` `MySQL`
-
-<a href="https://github.com/Nitinrajgor07/online-voting-system"><img src="https://img.shields.io/badge/View_Repository-05070D?style=flat-square&logo=github&logoColor=60A5FA" /></a>
-
-</td></tr>
-</table>
-
-<br />
-
-<img src="./divider.svg" width="100%" />
-
-<br />
-
-## Education
-
-<table align="center" width="100%">
-<tr><td width="70%">
-
-**MSc Computer Science & IT** — Jain (Deemed-to-be) University, Bengaluru
-Currently in Semester 3
-
-</td><td width="30%" align="right">
-
-<img src="https://img.shields.io/badge/In_Progress-3B82F6?style=flat-square" />
-
-</td></tr>
-<tr><td width="70%">
-
-**BCA** — Nav Gujarat College, Gandhinagar (Gujarat University)
-
-</td><td width="30%" align="right">
-
-<img src="https://img.shields.io/badge/2022--2025-22D3EE?style=flat-square" />
-
-</td></tr>
-</table>
-
-<br />
-
-## Certifications
-
-<img src="https://img.shields.io/badge/IBM_SkillsBuild-05070D?style=flat-square&logo=ibm&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Oracle_Database_Explorer-05070D?style=flat-square&logo=oracle&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/LinkedIn_Learning-05070D?style=flat-square&logo=linkedin&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Coursera-05070D?style=flat-square&logo=coursera&logoColor=60A5FA" />
-
-<br /><br />
-
-<img src="./divider.svg" width="100%" />
-
-<br />
-
-## Contact
+## `06` &nbsp; Achievements
 
 <div align="center">
 
-<a href="https://github.com/Nitinrajgor07"><img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=60A5FA" /></a>
-<a href="https://www.linkedin.com/in/nitin-rajgor-754b30383"><img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /></a>
-<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-05070D?style=for-the-badge&logo=googledocs&logoColor=60A5FA" /></a>
+| Recognition | Details |
+|:---|:---|
+| **AI / ML Project Development** | Developed an AI-based smart toll management application incorporating machine learning and dynamic pricing. |
+| **Full Stack Application Development** | Built a student academic management application with Flask and MySQL. |
+| **Academic Progression** | Pursuing postgraduate studies in Computer Science & IT after completing a BCA. |
+| **Technical Learning** | Completed learning programs covering MySQL, cloud computing, predictive analytics, and AI fundamentals. |
 
 </div>
 
-<br />
+---
 
-<img src="./divider.svg" width="100%" />
+## `07` &nbsp; Certifications
 
-<br />
+### LinkedIn Learning
+
+<p>
+  <a href="https://www.linkedin.com/learning/">
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning-Advanced%20MySQL-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Advanced MySQL"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/learning/">
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning-Cloud%20Computing-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Foundations of Cloud Computing"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/learning/">
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning-Predictive%20Analytics-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Predictive Analytics Essential Training Data Mining"/>
+  </a>
+</p>
+
+### IBM SkillsBuild
+
+<p>
+  <a href="https://skillsbuild.org/">
+    <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Artificial%20Intelligence%20Fundamentals-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="Artificial Intelligence Fundamentals"/>
+  </a>
+</p>
+
+### Additional Certification Goals
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Future%20Learning%20Goal-374151?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS learning goal"/>
+  <img src="https://img.shields.io/badge/Oracle-Future%20Learning%20Goal-374151?style=flat-square&logo=oracle&logoColor=white" alt="Oracle learning goal"/>
+  <img src="https://img.shields.io/badge/NPTEL-Future%20Learning%20Goal-374151?style=flat-square&logo=academia&logoColor=white" alt="NPTEL learning goal"/>
+  <img src="https://img.shields.io/badge/Cisco-Future%20Learning%20Goal-374151?style=flat-square&logo=cisco&logoColor=white" alt="Cisco learning goal"/>
+</p>
+
+---
+
+## `08` &nbsp; Coding Profiles
 
 <div align="center">
 
-*"Research gives you the idea. Engineering makes it real."*
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
-<br />
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Nitinrajgor07&color=3B82F6&style=flat-square&label=Profile+Views" />
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-View%20Profile-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
 
-<br /><br />
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-View%20Profile-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
-<sub>© 2026 Nitin Rajgor</sub>
+</div>
+
+---
+
+## `09` &nbsp; GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/NitinRajgor">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NitinRajgor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/NitinRajgor">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinRajgor&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/NitinRajgor">
+  <img width="70%" src="https://streak-stats.demolab.com?user=NitinRajgor&theme=transparent&hide_border=true&background=0D1117&stroke=4F46E5&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## `10` &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NitinRajgor&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+
+</div>
+
+---
+
+## `11` &nbsp; Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/NitinRajgor">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NitinRajgor&bg_color=0D1117&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+---
+
+## `12` &nbsp; Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NitinRajgor/NitinRajgor/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## `13` &nbsp; Current Focus
+
+```yaml
+profile:
+  name: Nitin Rajgor
+  role: Software Developer
+  education: M.Sc. Computer Science & IT
+
+learning:
+  - Advanced Python Programming
+  - Data Structures and Algorithms
+  - Machine Learning Fundamentals
+  - Database Design and SQL
+  - Software Engineering Best Practices
+
+building:
+  - AI-Based Smart Toll Management System
+  - Student Academic Management System
+  - Python and Flask Web Applications
+  - Data-Driven Software Solutions
+
+exploring:
+  - Applied Artificial Intelligence
+  - Predictive Analytics
+  - Full Stack Engineering
+  - Scalable Backend Architectures
+  - Open Source Collaboration
+
+open_to:
+  - Software Developer Roles
+  - Python Development Opportunities
+  - AI/ML Projects
+  - Full Stack Development
+  - Internships
+  - Open Source Contributions
+```
+
+---
+
+## `14` &nbsp; Connect With Me
+
+<div align="center">
+
+I'm interested in connecting with developers, engineers, recruiters, and collaborators working on practical software engineering and AI-driven applications.
+
+<a href="mailto:rajgornitin2308@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rajgornitin2308%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Nitin Rajgor"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<a href="https://github.com/NitinRajgor">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+**Email:** [rajgornitin2308@gmail.com](mailto:rajgornitin2308@gmail.com)  
+**Location:** Bengaluru, India
+
+</div>
+
+---
+
+## `15` &nbsp; Footer
+
+<div align="center">
+
+*"Great software is built through continuous learning, thoughtful engineering, and a commitment to solving real problems."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0D0B1E&height=120&section=footer" width="100%" alt="Purple gradient footer banner"/>
+
+**Building today. Learning continuously. Engineering for tomorrow.**
 
 </div>
